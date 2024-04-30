@@ -1,0 +1,3 @@
+interface Mobile {
+    void displayInfo();
+}
